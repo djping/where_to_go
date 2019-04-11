@@ -1,0 +1,42 @@
+{
+  "ret": true,
+  "data": {
+    "sightName": "故宫(AAAAA景区)",
+    "bannerImg": "http://img1.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_r_800x800_6edd8174.jpg",
+    "gallaryImgs": ["http://img1.qunarzz.com/sight/p0/1409/19/adca619faaab0898245dc4ec482b5722.jpg_r_800x800_6edd8174.jpg", "http://img1.qunarzz.com/wugc/p238/201306/16/d9090c728fed64eb93835fbb.jpg_r_800x800_7329a802.jpg", "http://img1.qunarzz.com/sight/p0/1501/af/af47583adca3f972.water.jpg_r_800x800_5a57e1fe.jpg",
+    "http://img1.qunarzz.com/sight/p0/1410/e3/73da8d3e19cdc41c1932d4fcd22ec792.water.jpg_r_800x800_7f96ccf9.jpg"],
+    "categoryList": [{
+        "title": "成人票",
+        "children": [{
+          "title": "成人三馆联票",
+          "children": [{
+            "title": "成人三馆联票 - 某一旅游网销售"
+          }]
+        },{
+          "title": "成人五馆联票"
+        }]
+      }, {
+        "title": "学生票"
+      }, {
+        "title": "儿童票"
+      }, {
+        "title": "特惠票",
+        "children": [{
+          "title": "退伍军人票"
+        }, {
+          "title": "老年人票"
+        }, {
+          "title": "残疾人票"
+        }]
+      }, {
+        "title": "热销组合产品",
+        "children": [{
+          "title": "成人票+故宫全景手绘地图"
+        }, {
+          "title": "成人票+婴儿推车出租服务"
+        }, {
+          "title": "成人票+故宫导游讲解服务"
+        }]
+      }]
+  }
+}
